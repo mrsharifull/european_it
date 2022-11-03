@@ -15,6 +15,9 @@
     $comment = '';
     $sum = '';
 
+
+    ## git push test
+
     if (isset($_POST['plus'])) {
         $input1 = $_POST['input1'];
         $input2 = $_POST['input2'];
